@@ -4,9 +4,7 @@
   "license_url": null,
   "author": "Techy",
   "assets": {
-    "s1": "assets/coffee1.png",
-    "s2": "assets/test.png",
-    "s3": "assets/test.png"
+    "s1": "assets/coffee1.png"
   },
   "component": true
 }
