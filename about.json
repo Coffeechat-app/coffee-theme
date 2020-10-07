@@ -5,8 +5,8 @@
   "author": "Techy",
   "assets": {
     "s1": "assets/coffee1.png",
-    "s2": "assets/coffee2.png",
-    "s3": "assets/coffee3.png"
+    "s2": "assets/test.png",
+    "s3": "assets/test.png"
   },
   "component": true
 }
