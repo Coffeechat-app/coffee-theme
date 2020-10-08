@@ -4,7 +4,7 @@
   "license_url": null,
   "author": "Techy",
   "assets": {
-    "s1": "https://raw.githubusercontent.com/davidtaylorhq/discourse-snow-theme/master/assets/s1.png"
+    "s1": "assets/coffee1.png"
   },
   "component": true
 }
