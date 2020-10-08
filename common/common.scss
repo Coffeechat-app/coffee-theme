@@ -14,13 +14,13 @@
         animation: snow 10s linear infinite;
         
         @if is-light-color-scheme() {
-            filter: invert(0%);
+            filter: invert(100%);
         }
     }
 
     @keyframes snow {
         0% {background-position: 0px 0px, 0px 0px, 0px 0px;}
-        100% {background-position: 1px 1000px, 200px 400px, -150px 300px;}
+        100% {background-position: 500px 1000px, 200px 400px, -150px 300px;}
     }
 }@else{
     .discoursesnow{
